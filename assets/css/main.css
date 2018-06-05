@@ -1781,6 +1781,16 @@
 
 /* Section/Article */
 
+	fieldset.special1 {
+		width:50%;
+	}
+
+	@media screen and (max-width: 600px) {
+		fieldset.special1 {
+			max-width:100%;
+		}
+	}
+
 	section.special, article.special, h2.special, h3.special, p.special, fieldset.special {
 		text-align: center;
 	}
