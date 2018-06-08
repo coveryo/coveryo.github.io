@@ -1789,6 +1789,9 @@
 		fieldset.special1 {
 			max-width:100%;
 		}
+		fieldset.special1 {
+			min-width:50%;
+		}
 	}
 
 	section.special, article.special, h2.special, h3.special, p.special, fieldset.special {
