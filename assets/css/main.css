@@ -1790,7 +1790,7 @@
 			max-width:100%;
 		}
 		fieldset.special1 {
-			min-width:50%;
+			width:75%;
 		}
 	}
 
