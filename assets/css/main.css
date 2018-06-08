@@ -1782,7 +1782,7 @@
 /* Section/Article */
 
 	fieldset.special1 {
-		width:50%;
+		width:60%;
 	}
 
 	@media screen and (max-width: 600px) {
