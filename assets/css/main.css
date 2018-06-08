@@ -1788,8 +1788,6 @@
 	@media screen and (max-width: 600px) {
 		fieldset.special1 {
 			max-width:100%;
-		}
-		fieldset.special1 {
 			width:75%;
 		}
 	}
